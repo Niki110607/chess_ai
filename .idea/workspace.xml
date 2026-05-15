@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d713bfcc-974e-4208-ad68-08f3c9851b40" name="Changes" comment="created git rep">
+      <change afterPath="$PROJECT_DIR$/.idea/chess_ai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Data_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/data_preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployment/challenge_engines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployment/lichess_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployment/openings.pgn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deployment/uci_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/architecture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/chessformer-training.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree_search/mcts.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Niki110607&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Niki110607/chess_ai.git&quot;,
+    &quot;accountId&quot;: &quot;f4a757a4-47b8-45d7-baca-162ea2b600e7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="39DO28MTtiiFgnmXSjElR2gIOAt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.architecture.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_engines.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_preprocessing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filter_lichess_games.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lichess_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mcts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uci_wrapper.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHELLCHECK.PATH&quot;: &quot;/Users/niklas/Library/Application Support/JetBrains/PyCharm2025.2/plugins/Shell Script/shellcheck&quot;,
+    &quot;Shell Script.my_engine.sh.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/niklas/Python/PycharmProjects/chess_ai&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.stickyLines&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tree_search" />
+      <recent name="$PROJECT_DIR$/model" />
+      <recent name="$PROJECT_DIR$/data/preprocessed_data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/commentary" />
+      <recent name="$PROJECT_DIR$/training" />
+      <recent name="$PROJECT_DIR$/tree_search" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/data/preprocessed_data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="mcts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chess_ai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree_search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree_search/mcts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mcts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d713bfcc-974e-4208-ad68-08f3c9851b40" name="Changes" comment="" />
+      <created>1770226965412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770226965412</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1770312918289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770312918289</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit 1">
+      <option name="closed" value="true" />
+      <created>1770360155907</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770360155907</updated>
+    </task>
+    <task id="LOCAL-00003" summary="data processing finish">
+      <option name="closed" value="true" />
+      <created>1770368913683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770368913683</updated>
+    </task>
+    <task id="LOCAL-00004" summary="training loop init">
+      <option name="closed" value="true" />
+      <created>1770816825996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770816825996</updated>
+    </task>
+    <task id="LOCAL-00005" summary="mcts, ~1800 elo">
+      <option name="closed" value="true" />
+      <created>1772474879875</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772474879875</updated>
+    </task>
+    <task id="LOCAL-00006" summary="move_dist smooth out, add noise">
+      <option name="closed" value="true" />
+      <created>1772546369138</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772546369138</updated>
+    </task>
+    <task id="LOCAL-00007" summary="finished mcts algorithm with code cleanup">
+      <option name="closed" value="true" />
+      <created>1772815302975</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772815302975</updated>
+    </task>
+    <task id="LOCAL-00008" summary="cleanup data_processing">
+      <option name="closed" value="true" />
+      <created>1772895936592</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772895936592</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lichess and cutechess deployment">
+      <option name="closed" value="true" />
+      <created>1773435811728</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1773435811728</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lichess and cutechess deployment">
+      <option name="closed" value="true" />
+      <created>1773505465816</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1773505465816</updated>
+    </task>
+    <task id="LOCAL-00011" summary="created git rep">
+      <option name="closed" value="true" />
+      <created>1773505552320</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1773505552320</updated>
+    </task>
+    <task id="LOCAL-00012" summary="created git rep">
+      <option name="closed" value="true" />
+      <created>1773505798871</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1773505798871</updated>
+    </task>
+    <task id="LOCAL-00013" summary="created git rep">
+      <option name="closed" value="true" />
+      <created>1773506107602</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1773506107602</updated>
+    </task>
+    <task id="LOCAL-00014" summary="created git rep">
+      <option name="closed" value="true" />
+      <created>1773506244835</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1773506244835</updated>
+    </task>
+    <task id="LOCAL-00015" summary="created git rep">
+      <option name="closed" value="true" />
+      <created>1773506286500</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1773506286500</updated>
+    </task>
+    <task id="LOCAL-00016" summary="created git rep">
+      <option name="closed" value="true" />
+      <created>1773506342441</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1773506342441</updated>
+    </task>
+    <task id="LOCAL-00017" summary="created git rep">
+      <option name="closed" value="true" />
+      <created>1774258533287</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1774258533287</updated>
+    </task>
+    <task id="LOCAL-00018" summary="created git rep">
+      <option name="closed" value="true" />
+      <created>1774262197605</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1774262197605</updated>
+    </task>
+    <task id="LOCAL-00019" summary="created git rep">
+      <option name="closed" value="true" />
+      <created>1778873821317</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1778873821317</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="commit 1" />
+    <MESSAGE value="data processing finish" />
+    <MESSAGE value="training loop init" />
+    <MESSAGE value="mcts, ~1800 elo" />
+    <MESSAGE value="move_dist smooth out, add noise" />
+    <MESSAGE value="finished mcts algorithm with code cleanup" />
+    <MESSAGE value="cleanup data_processing" />
+    <MESSAGE value="lichess and cutechess deployment" />
+    <MESSAGE value="created git rep" />
+    <option name="LAST_COMMIT_MESSAGE" value="created git rep" />
+  </component>
+</project>

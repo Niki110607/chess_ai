@@ -1,0 +1,29 @@
+[Event "Italian Game"]
+1. e4 e5 2. Nf3 Nc6 3. Bc4 *
+
+[Event "Vienna Game"]
+1. e4 e5 2. Nc3 *
+
+[Event "Dutch Defense"]
+1. d4 f5 *
+
+[Event "Caro-Kann Defense"]
+1. e4 c6 *
+
+[Event "King's Pawn Game (e4 e5)"]
+1. e4 e5 *
+
+[Event "Queen's Gambit (d4)"]
+1. d4 d5 2. c4 *
+
+[Event "Sicilian Defense"]
+1. e4 c5 *
+
+[Event "King's Gambit"]
+1. e4 e5 2. f4 *
+
+[Event "King's Indian Defense"]
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 *
+
+[Event "Scandinavian Defense"]
+1. e4 d5 *
